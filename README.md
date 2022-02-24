@@ -1,5 +1,5 @@
-# Steam-Achievment-helper
-Helps to get steam all steam achievements
+# Steam-Achievements-Unlocker
+  It helps you to unlocked all Achievements of your games.
 
 # Procedure:
   1.Pick a game first.
